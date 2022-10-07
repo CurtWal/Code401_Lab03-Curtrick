@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/bin/Debug/net6.0/challenge4
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/bin/Debug/net6.0/challenge4.deps.json
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/bin/Debug/net6.0/challenge4.runtimeconfig.json
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/bin/Debug/net6.0/challenge4.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/bin/Debug/net6.0/ref/challenge4.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/bin/Debug/net6.0/challenge4.pdb
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/ref/challenge4.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.pdb
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge4/obj/Debug/net6.0/challenge4.genruntimeconfig.cache

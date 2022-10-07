@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/bin/Debug/net6.0/challenge7
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/bin/Debug/net6.0/challenge7.deps.json
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/bin/Debug/net6.0/challenge7.runtimeconfig.json
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/bin/Debug/net6.0/challenge7.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/bin/Debug/net6.0/ref/challenge7.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/bin/Debug/net6.0/challenge7.pdb
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/ref/challenge7.dll
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.pdb
+/home/curtrick/code_401/Labs/Code401_Lab03-Curtrick/challenge7/obj/Debug/net6.0/challenge7.genruntimeconfig.cache
